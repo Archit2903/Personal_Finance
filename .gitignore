@@ -1,0 +1,11 @@
+# local tooling and scratch
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+.claude/
+# never commit exported data
+*.csv
+*.xlsx
+*.json
